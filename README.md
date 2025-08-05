@@ -3,7 +3,6 @@
 
 😺 I'm currently studying veterinary veterinary medicine
 
-<img src="octocat-1754436480653"
 
 <div>
 <a href="https://github.com/Thallith">
