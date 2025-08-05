@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hello! Welcome to my Github profile.
+# My name is Thallith 👋
+
+😺 I'm currently studying veterinary veterinary medicine
+
+<img src="octocat-1754436480653"
+
+<div>
+<a href="https://github.com/Thallith">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
 
 <!--
 **Thallith/Thallith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
