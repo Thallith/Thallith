@@ -1,7 +1,7 @@
 # Hello! Welcome to my Github profile.
 # My name is Thallith 👋
 
-😺 I'm currently studying veterinary veterinary medicine
+😺 I'm currently studying veterinary medicine
 
 
 <div>
